@@ -95,5 +95,6 @@ hr{
 }
 .father{
     display: flex;
+    justify-content: center;
     
 }

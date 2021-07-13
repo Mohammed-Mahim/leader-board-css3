@@ -188,6 +188,9 @@ hr{
     .top-players-heading {
         text-align: center;
     }
+    header{
+        display: none;
+    }
 }
 
 /* Tablet Device  */
